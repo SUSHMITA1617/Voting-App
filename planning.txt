@@ -1,0 +1,22 @@
+voting application..
+what????
+a functionality  where user can  give vote to  respective candidate
+------------------------------------------------------------------------
+
+models
+routes
+-------------------------------------------------------------------------
+
+
+functionality 
+sign in / sign up of user
+see the list of candidate
+vote one of the candidate, after voting user cant vote again
+there is a routes which shows list of candidates and their live votes count sorted by their vote counts
+user must have id proof ie aadhar card
+there should be an admin who can only maintain table  of candidate bt cant vote
+can change password 
+passsword should be aadhard card number /password
+---------------------------------------------------------
+
+routes
